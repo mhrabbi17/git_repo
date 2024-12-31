@@ -1,0 +1,9 @@
+first
+initial
+<<<<<<< HEAD
+
+second
+=======
+fourth
+>>>>>>> new-branch
+asdakjkhdoiq qwoidasoid 
