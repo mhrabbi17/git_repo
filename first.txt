@@ -1,4 +1,8 @@
 first
 initial
+<<<<<<< HEAD
 
 second
+=======
+fourth
+>>>>>>> new-branch
